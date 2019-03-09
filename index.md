@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Snoot Suit Snuggle!
 
-You can use the [editor on GitHub](https://github.com/snootsuitsnuggle/company/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+*Our mission is to empower people to be able to snooze and rest their eyes in all situations and places.  In this society, we have a habit of getting less and less sleep, and still complaining about it. This counteracts people's ability to contribute and improve our world, due to lack of proper rest.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Snoot Suit Snuggle is a creation that will enable you to sleep anywhere and anytime, so you are better rested and therefore more productive and happy. We are combatting stress and weariness, to give **you** an opportunity to seize the day!
 
-### Markdown
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
