@@ -24,3 +24,5 @@ Email: snootsuitsnuggle@gmail.com <br>
 Phone: 1-800-SNUGGLE
 
 > _So order today to stay happy and relaxed in the sleepy world of the Snoot Suit Snuggle._
+
+_Disclaimer: This website is owned and coded by Camila P. and Avelyn B.!_
